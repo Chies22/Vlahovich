@@ -1,0 +1,12 @@
+.content{
+    float: left;
+    width: 69%;
+    padding: 15px;
+}
+.banner{
+    background-color: antiquewhite;
+    text-align: center;
+}
+h1{
+    font-size: large;
+}
